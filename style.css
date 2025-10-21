@@ -1,0 +1,43 @@
+h1 {
+    font-size: 54px;
+    background-color: yellowgreen;
+    padding: 24px 8px;
+    text-align: center;
+    width: 500px;
+    margin: auto;
+    border: darkolivegreen 5px solid;
+}
+
+h2 {
+    text-align: center;
+    margin: 24px auto;
+    padding: 16px 8px;
+    background-color: lightsalmon;
+    border: darkred 3px solid;
+    width: 800px;
+}
+
+.stew{
+    padding: 8px 16px;
+    background-color: lightskyblue;
+    border: darkcyan 2px solid;
+}
+
+.bread {
+    padding: 8px 16px;
+    background-color: lightpink;
+    border: sienna 2px solid;
+}
+
+.grav {
+    padding: 8px 16px;
+    background-color: orangered;
+    border: red 2px solid;
+}
+
+p {
+    margin: 48px auto;
+    padding: 16px 8px;
+    text-align: center;
+    width: 1200px;
+}
