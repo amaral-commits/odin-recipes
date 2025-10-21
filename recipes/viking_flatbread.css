@@ -1,3 +1,14 @@
+* {
+    font-family: "Trebuchet MS", serif;
+}
+
+#link {
+    justify-content: center;
+    display: block;
+    text-align: center;
+    margin: 24px auto;
+}
+
 .recipe {
     display: block;
     text-align: center;
@@ -11,4 +22,11 @@ h1 {
     font-size: 36px;
     width: 500px;
     padding: 24px 8px;
+}
+
+.main {
+    background-color: lightgrey;
+    border: darkslategrey 2px solid;
+    padding: 8px 24px;
+    margin: auto;
 }
