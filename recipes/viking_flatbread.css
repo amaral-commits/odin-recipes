@@ -1,0 +1,14 @@
+.recipe {
+    display: block;
+    text-align: center;
+    margin: 24px auto;
+    background-color: lightpink;
+    border: sienna 2px solid;
+    justify-content: center;
+}
+
+h1 {
+    font-size: 36px;
+    width: 500px;
+    padding: 24px 8px;
+}
