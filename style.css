@@ -35,9 +35,14 @@ h2 {
     border: red 2px solid;
 }
 
-p {
+a {
     margin: 48px auto;
     padding: 16px 8px;
     text-align: center;
     width: 1200px;
+}
+
+.recipe {
+  text-align: center;
+  margin: 24px auto;
 }
