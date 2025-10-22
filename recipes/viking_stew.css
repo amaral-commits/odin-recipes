@@ -30,3 +30,22 @@ h1 {
     text-align: center;
     margin: 24px auto;
 }
+
+.desc {
+    background-color: lightblue;
+    border: lightskyblue 2px solid;
+}
+
+.ing {
+    background-color: aquamarine;
+    border: lightgreen 2px solid;
+    text-align: center;
+    list-style-position: inside;
+}
+
+.step {
+    background-color: lightyellow;
+    border: yellow 2px solid;
+    list-style-position: inside;
+    text-align: right;
+}
